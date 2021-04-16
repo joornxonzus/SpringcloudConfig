@@ -15,4 +15,11 @@ spring:
   session:
     store-type: none
 
-
+px:  
+  kdn:
+    appKey: 44cea2e6-a945-4742-9a04-d3042e853004 #电商加密私钥，快递鸟提供，注意保管，不要泄漏
+    eBusinessID: 1402984 #电商ID
+    #百世快递
+    HTKY:
+      customerName: 201175_0016
+      customerPwd: VvVA8OBQQ6Pj
